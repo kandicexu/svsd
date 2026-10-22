@@ -1,0 +1,5 @@
+{
+  "name": "footnote",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
